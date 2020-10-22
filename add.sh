@@ -6,3 +6,7 @@ echo "end"
 echo $b
 echo "say"
 echo "bye"
+
+echo "hey again"
+minn=$($b-$a)
+echo $minn
