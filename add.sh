@@ -6,3 +6,4 @@ echo "end"
 echo $b
 echo "say"
 echo "bye"
+echo "hi"
