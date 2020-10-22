@@ -4,3 +4,5 @@ b=13
 sum=$($a+$b)
 echo "end"
 echo "hey again"
+min=$($b-$a)
+echo $min
